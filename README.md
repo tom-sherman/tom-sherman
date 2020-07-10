@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm is a JavaScript developer based in Norwich, UK.
+I'm a JavaScript developer based in Norwich, UK.
 
 ### Links
 
