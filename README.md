@@ -9,3 +9,4 @@ I'm a software engineer based in Norwich, UK.
 - Polywork: https://www.polywork.com/tomsherman
 - LinkedIn: https://www.linkedin.com/in/tom-sherman-uk/
 - Website: https://tom-sherman.com/
+- <a rel="me" href="https://mastodon.social/@tomsherman">Mastodon</a>
