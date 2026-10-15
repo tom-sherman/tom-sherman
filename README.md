@@ -8,7 +8,7 @@ I'm a software engineer based in Norwich, UK.
 - Bluesky: https://bsky.app/profile/tom.sherman.is
 - Twitter: https://twitter.com/tomus_sherman
 - LinkedIn: https://www.linkedin.com/in/tom-sherman-uk/
-- Website: https://tom-sherman.com/
+- Website: https://tom.sherman.is
 
 
 <picture>
